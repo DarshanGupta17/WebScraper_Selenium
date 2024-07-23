@@ -4,7 +4,7 @@ Create a virtual environment using
   python -m venv (name)
 
 run this command to activate the venv
-./venv/Scripts/activate
+./(name)/Scripts/activate
 
 now run
 pip instal -r requirements.txt  // To install the necessary dependencies to run the project
